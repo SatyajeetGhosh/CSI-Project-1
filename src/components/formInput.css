@@ -1,0 +1,16 @@
+input{
+    background-color: #f1ebff;
+    outline: none;
+}
+
+input::placeholder{
+    color: black; 
+}
+
+span{
+    display: none;
+}
+
+input:invalid[focused="true"] ~ span{
+    display: block;
+}
