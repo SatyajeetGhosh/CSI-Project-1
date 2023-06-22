@@ -1,4 +1,4 @@
-<h3>To get a preview <a href="csi-project-1.netlify.app">Click here</a> or go to csi-project-1.netlify.app</h3>
+<h3>To get a preview <a href="https://csi-project-1.netlify.app/">Click here</a> or go to https://csi-project-1.netlify.app/</h3>
 
 # Getting Started with Create React App
 
