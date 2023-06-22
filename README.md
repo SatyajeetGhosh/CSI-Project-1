@@ -1,3 +1,5 @@
+<h3>To get a preview <a href="csi-project-1.netlify.app">Click here</a> or go to csi-project-1.netlify.app</h3>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
